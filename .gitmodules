@@ -1,0 +1,9 @@
+[submodule "med-block-server"]
+	path = med-block-server
+	url = https://github.com/Med-Block/med-block-server.git
+[submodule "med-block-client"]
+	path = med-block-client
+	url = https://github.com/Med-Block/med-block-client.git
+[submodule "med-block-peer"]
+	path = med-block-peer
+	url = https://github.com/Med-Block/med-block-peer.git
